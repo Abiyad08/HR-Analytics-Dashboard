@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+kaleido
+scikit-learn
+statsmodels
+openpyxl
+python-pptx
+scipy
